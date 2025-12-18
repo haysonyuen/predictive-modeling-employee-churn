@@ -1,4 +1,4 @@
-# Auto_HR_analysis
+# predictive-modeling-employee-churn
 Hayson solved employee retention at Salifort Motors by building predictive models to identify churn. Using Python, He developed Random Forest and Logistic Regression models that pinpointed burnout, tenure, and workload as key drivers. Provided HR with actionable policies to cap projects and reward overtime to save costs.
 
 Python Skills Demonstrated
